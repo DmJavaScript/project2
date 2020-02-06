@@ -3,7 +3,7 @@
 [![Build status][shield-build]][info-build]
 
 Одностраничный сайт "Научиться учиться", посвящённый техникам и способам обучения. Свёрстан в рамках учебной программы Яндекс.Практикума.
-## Стек: HTML, CSS (Flexbox).
+## Стек: HTML, CSS (Flexbox)
 
 ### Сайт сейчас содержит:
 * Анимацию фоновых фигур на CSS
@@ -29,7 +29,7 @@
 
 
 
-##Инструкции по развёртыванию:
+## Инструкции по развёртыванию:
 
 #### установить Git для вашей операционной системы
 Его необходимо скачать с официального сайта <https://git-scm.com/downloads>
@@ -91,4 +91,7 @@ git pull origin develop (если всё в порядке, то придет о
 * chrome: "64",
 * safari: "10"
 
+
+[shield-version]: https://img.shields.io/github/v/release/DmJavaScript/project2?style=flat-square
+[shield-build]: https://img.shields.io/appveyor/ci/DmJavaScript/project2?style=flat-square
 ### ссылка на мой репозиторий https://github.com/DmJavaScript/project2
