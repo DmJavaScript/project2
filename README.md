@@ -1,9 +1,8 @@
 # project2
-## ссылка на мой репозиторий https://github.com/DmJavaScript/project2
+![Version][shield-version]
+[![Build status][shield-build]][info-build]
 
-Сайт "Научиться учиться" Актуальная версия программы ![Version][shield-version]  [![Build status][shield-build]][info-build]
-
-Одностраничный сайт, посвящённый техникам и способам обучения. Свёрстан в рамках учебной программы Яндекс.Практикума.
+Одностраничный сайт "Научиться учиться", посвящённый техникам и способам обучения. Свёрстан в рамках учебной программы Яндекс.Практикума.
 ## Стек: HTML, CSS (Flexbox).
 
 ### Сайт сейчас содержит:
@@ -25,15 +24,12 @@
 ### Использованные материалы и полезные для будущих изменений:
 
 * [`Курс Яндекс.Практикум`](https://praktikum.yandex.ru/)
-* [`Доступность a11y`](udacity.com/course/web-accessibility--ud891) <medium.com/web-standards/pragmatic-a11y-rules-b16dd2f77685>
+* [`Доступность a11y`](udacity.com/course/web-accessibility--ud891) <https://medium.com/web-standards/pragmatic-a11y-rules-b16dd2f77685>
 * [`В HTML сделать имена файлов к альтернативным изображениям для поддержки Retina дисплеев`](webdesign.tutsplus.com/ru/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015)
 
 
 
-
-
-
-Инструкции по развёртыванию:
+##Инструкции по развёртыванию:
 
 #### установить Git для вашей операционной системы
 Его необходимо скачать с официального сайта <https://git-scm.com/downloads>
@@ -84,13 +80,15 @@ git pull origin develop (если всё в порядке, то придет о
 
 
 
-Минимальные системные требования:
+## Минимальные системные требования:
 
 Русский язык в операционной системе для правильного отображения шрифтов.
 
 Компьютер с установленным на нём одним из перечисленных ниже браузеров.
 Версии браузеров поддерживаются начиная от:
-    * edge: "17",
-    * firefox: "60",
-    * chrome: "64",
-    * safari: "10"
+* edge: "17",
+* firefox: "60",
+* chrome: "64",
+* safari: "10"
+
+### ссылка на мой репозиторий https://github.com/DmJavaScript/project2
