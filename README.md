@@ -1,6 +1,6 @@
 # project2
 ![Version][shield-version]
-[![Build status][shield-build]][info-build]
+![Build status][shield-build]
 
 Одностраничный сайт "Научиться учиться", посвящённый техникам и способам обучения. Свёрстан в рамках учебной программы Яндекс.Практикума.
 ## Стек: HTML, CSS (Flexbox)
